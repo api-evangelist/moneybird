@@ -1,0 +1,78 @@
+{
+    "name": "MoneyBird",
+    "description": "Plezier in je financi\u00eble zaken met het boekhoudprogramma van Moneybird. Al meer dan 150.000 ZZP'ers en MKB'ers gingen je voor!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2201-moneybird.jpg",
+    "tags": [
+        "accounting",
+        "api provider",
+        "billing",
+        "has api",
+        "have api",
+        "invoices",
+        "netherlands",
+        "no api definition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/moneybird\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MoneyBird",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2201-moneybird.jpg",
+            "humanURL": "https:\/\/www.moneybird.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moneybird-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moneybird-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.moneybird.nl\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/bluetools"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/moneybird"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/moneybird"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.moneybird.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@moneybird.nl"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/moneybird"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/moneybird"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.moneybird.com\/"
+        }
+    ]
+}
